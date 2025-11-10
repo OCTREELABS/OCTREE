@@ -1,31 +1,19 @@
-# FUNXPAY
+# DICION
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-FUNXPAY-blue?logo=google-chrome)](https://funxpay.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-FUNXPAY-blue?logo=twitter)](https://x.com/FUNXPAYLAB)
+[![Website](https://img.shields.io/badge/Website-DICION-blue?logo=google-chrome)](https://dicion.tech/)
+[![Twitter](https://img.shields.io/badge/Twitter-DICION-blue?logo=twitter)](https://x.com/DICIONPOLY)
 
-```
- _______ _______ _______ ___ ___ ______ _______ ___ ___ 
-|    ___|   |   |    |  |   |   |   __ \   _   |   |   |
-|    ___|   |   |       |-     -|    __/       |\     / 
-|___|   |_______|__|____|___|___|___|  |___|___| |___|  
-                                                        
+DICION — The Intelligent Execution Layer for Polymarket
 
-```
-CA: BQ1UtmfHNoBpnrCNhotDUWrwwqMXM8eMbFZo1FQcpump
+In the evolving world of prediction markets, Polymarket has become a data-rich environment where decisions, probabilities, and beliefs collide in real time. Yet most interactions remain manual — traders analyze odds, switch tabs, and react emotionally to volatility. DICION redefines this dynamic by introducing an intelligent, programmable execution layer that transforms Polymarket into a fully autonomous trading environment.
 
-FUNXPAY — The First x402-Enabled MCP Server on Solana
+Built as an open-source protocol and browser plugin, DICION allows users to design modular strategies, process live market signals, and execute orders automatically with on-chain verification. It merges data analytics, risk control, and strategy automation into one cohesive system — enabling trades not based on emotion, but on logic and evidence.
 
-FUNXPAY is a next-generation infrastructure that connects autonomous AI agents directly to Solana through the x402 protocol. It transforms how intelligent systems interact with the blockchain — shifting from free, permissionless chaos to structured, auditable, and pay-per-access execution.
+Through its programmable strategy engine, users can encode decision logic such as Kelly sizing, conditional triggers, and correlation-based hedging. Its real-time analytics layer constantly evaluates probabilities, liquidity, and exposure, delivering precision execution at every step. With autonomous operation, DICION doesn’t just react — it learns and adapts, allowing markets to evolve through intelligent feedback loops.
 
-At its core, FUNXPAY combines three powerful components: the x402 Payment Gateway, which handles on-chain authentication and pay-per-call access using Solana or USDC; the MCP Server Layer, which exposes verified blockchain tools for simulation and execution; and the Policy & Security Core, which governs every agent’s permissions, limits, and signing logic through KMS-secured protocols.
-
-Agents communicate through a simple x402 endpoint — when they request an action, the server responds with a payment requirement, validates the transaction, and grants short-lived access tokens. Once authorized, the agent can simulate or execute operations on Solana in real time, all under transparent monitoring and precise rate control. Every action — from payment to transaction result — is recorded, hashed, and stored for verifiable auditing.
-
-FUNXPAY turns blockchain access into an intelligent, economic network of autonomous agents. It brings together the speed of Solana, the flexibility of MCP, and the accountability of x402, creating a new foundation for AI-driven automation, decentralized finance operations, and on-chain creativity.
-
-Pay, verify, and act — FUNXPAY makes Solana truly machine-accessible.
+By combining open architecture, transparency, and autonomy, DICION marks a new phase for prediction markets — where trading becomes data-native, strategies become living systems, and every decision on Polymarket can be executed intelligently, verifiably, and at machine speed.
